@@ -1,0 +1,1 @@
+g++ -o app  main.cpp src/Provider.cpp src/Menu.cpp src/Article.cpp src/Order.cpp src/Provider_Manager.cpp src/Article_Manager.cpp src/Order_Handler.cpp src/System_Manager.cpp src/Employee.cpp src/Employee_Manager.cpp -Iinclude -std=c++11 
